@@ -1,0 +1,9 @@
+name: practical5
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - keras
